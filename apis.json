@@ -1,0 +1,74 @@
+{
+    "name": "Fusebill",
+    "description": "Subscription billing management and recurring billing software. Fusebill simplifies recurring billing & revenue collections and automates your manual processes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1803-fusebill-.jpg",
+    "tags": [
+        "api provider",
+        "billing",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fusebill-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fusebill",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1803-fusebill-.jpg",
+            "humanURL": "http:\/\/fusebill.com\/features\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fusebill--openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.fusebill.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fusebill"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fusebill"
+        },
+        {
+            "type": "Email",
+            "url": "info@fusebill.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@fusebill.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@fusebill.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@fusebill.com"
+        },
+        {
+            "type": "Email",
+            "url": "billing@fusebill.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fusebill"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fusebill.com\/features\/api\/"
+        }
+    ]
+}
